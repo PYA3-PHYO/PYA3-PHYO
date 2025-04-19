@@ -10,9 +10,7 @@ I am a passionate and driven student of Information and Communication Technology
 - 🔭 I’m currently working as a remote AI engineer, contributing to the development of LLM-based chatbots and Burmese language OCR systems.
 - 🌱 I’m currently learning the principles and best practices of MLOps to streamline the entire lifecycle of machine learning projects, from development to deployment and monitoring.
 - 👯 I’m looking to work on leveraging AI for social good. I am eager to connect with individuals who share this vision and possess complementary expertise to create impactful technological solutions for real-world challenges.
-- :mailbox: How to reach me:  <a href="www.linkedin.com/in/ppheinakapatrick">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" title="Linkedin" alt="Linkedin" width="40" height="40"/>
-  </a>
+- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ppheinakapatrick/)
 
   ---
   
