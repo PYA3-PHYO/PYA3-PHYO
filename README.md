@@ -11,7 +11,7 @@ I am a passionate and driven student of Information and Communication Technology
 - 🌱 I’m currently learning the principles and best practices of MLOps to streamline the entire lifecycle of machine learning projects, from development to deployment and monitoring.
 - 👯 I’m looking to work on leveraging AI for social good. I am eager to connect with individuals who share this vision and possess complementary expertise to create impactful technological solutions for real-world challenges.
 - :mailbox: How to reach me:  <a href="www.linkedin.com/in/ppheinakapatrick">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" title="Linkedin" alt="Linkedin" width="40" height="40"/>
   </a>
 
   ---
@@ -24,7 +24,7 @@ I am a passionate and driven student of Information and Communication Technology
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="skl" alt="skl" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="cv" alt="cv" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original-wordmark.svg" title="st" alt="st" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
